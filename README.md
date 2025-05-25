@@ -1,9 +1,9 @@
+# NAME: JAGAN JP
+# REG.NO: 212224230099
 ## EX 5 : TWO DIMENSIONALTRANSFORMATION 
 
 **AIM**
-
 To write a c program to implement 2D transformation of image.
-
 
 **ALGORITHM**
 
@@ -20,7 +20,6 @@ Step 5 : Perform the transformation.
 Step 6 : Draw the image.
 
 Step 7 : Stop the program.
-
 
 **Program :**
 
@@ -276,7 +275,6 @@ int main()
 
 **Output :**
 
-
 ![image](https://github.com/user-attachments/assets/10181c05-4881-428e-b49e-b0a454861ce0)
 ![image](https://github.com/user-attachments/assets/8b1b4ca5-4ed4-4616-b012-34bfc84bb99a)
 ![image](https://github.com/user-attachments/assets/c803b82a-c1f3-4e82-9cfd-293e7bd76ede)
@@ -286,7 +284,5 @@ int main()
 ![image](https://github.com/user-attachments/assets/ce538ea6-2d75-4e97-8960-caeea13a7e00)
 ![image](https://github.com/user-attachments/assets/7645c69c-88a3-419f-9b68-cf8c79cce59e)
 
-
 **Result :**
       Successfully completed a C program to implement 2D transformation of image.
-
